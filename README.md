@@ -23,9 +23,7 @@ I’ve spent the last 3+ years working in security and access control, where I:
 - Authored training guides, SOPs, and validation documentation
 - Stepped into supervisory roles, supported admin operations, and led with initiative
 
-💼 Experience
-Software Developer | Tech Academy Projects
-Remote | 2024 – 2025
+## 💼 Experience Software Developer | Tech Academy Projects Remote | 2024 – 2025
 Developed multiple games and applications using Unity, C#, Unreal Engine, and C++.
 Created systems using object-oriented programming, including inheritance, polymorphism, and encapsulation.
 Built a coin collection game in Unity featuring jump mechanics, player input control, and animation.
