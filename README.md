@@ -4,6 +4,17 @@
 
 I'm a multi-skilled creator with over 3.5 years of experience supporting technical operations, documentation, and digital systems in a professional security environment. My passion for game development is driven by thousands of hours studying game mechanics, exploring systems, and breaking down how great gameplay works.
 
+## 💼 Experience Software Developer | Tech Academy Projects Remote | 2024 – 2025
+Developed multiple games and applications using Unity, C#, Unreal Engine, and C++.
+Created systems using object-oriented programming, including inheritance, polymorphism, and encapsulation.
+Built a coin collection game in Unity featuring jump mechanics, player input control, and animation.
+Programmed a random level generator in Unreal Engine 5 using C++ that spawns coins and obstacles dynamically.
+Designed a vendor upgrade system using Blueprints for real-time interaction and purchases with collected coins.
+Constructed a Star System simulation in Unity, implementing orbital motion, lighting, and shadows.
+Developed full-stack ASP.NET Core Razor Pages applications, setting up secure HTTP pipelines and routing.
+Practiced version control using Git and GitHub for collaborative development and project submission.
+Emphasized code quality, usability, and workflow efficiency across all projects.
+
 ## 🔧 Current Focus
 - 🌱 Learning **Unity (C#)** and **Unreal Engine (Blueprints/C++)**
 - 🧠 Designing creative gameplay mechanics and game systems
@@ -22,17 +33,6 @@ I’ve spent the last 3+ years working in security and access control, where I:
 - Designed interactive HTML/CSS site maps for internal navigation
 - Authored training guides, SOPs, and validation documentation
 - Stepped into supervisory roles, supported admin operations, and led with initiative
-
-## 💼 Experience Software Developer | Tech Academy Projects Remote | 2024 – 2025
-Developed multiple games and applications using Unity, C#, Unreal Engine, and C++.
-Created systems using object-oriented programming, including inheritance, polymorphism, and encapsulation.
-Built a coin collection game in Unity featuring jump mechanics, player input control, and animation.
-Programmed a random level generator in Unreal Engine 5 using C++ that spawns coins and obstacles dynamically.
-Designed a vendor upgrade system using Blueprints for real-time interaction and purchases with collected coins.
-Constructed a Star System simulation in Unity, implementing orbital motion, lighting, and shadows.
-Developed full-stack ASP.NET Core Razor Pages applications, setting up secure HTTP pipelines and routing.
-Practiced version control using Git and GitHub for collaborative development and project submission.
-Emphasized code quality, usability, and workflow efficiency across all projects. 
 
 ## 🎯 Goals
 - Land a junior game dev or level design role
